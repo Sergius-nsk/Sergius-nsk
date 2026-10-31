@@ -1,4 +1,4 @@
-Сергей Вильчек
+# Сергей Вильчек
 
 **Инженер-судостроитель, кандидат технических наук.**
 **Инноватор: экологическое машиностроение и автоматизация в сельском хозяйстве.**
@@ -17,7 +17,7 @@
 **Живая книга проекта**
 Интерактивная энциклопедия проекта: собирается из отдельных глав, растёт вместе с проектом, переиздаётся для партнёров и инвесторов. Первый экземпляр — книга проекта BSF.
 Универсальный скилл позволяет собрать такую же книгу для любого другого проекта.
-Репозиторий: [living-project-book](https://github.com/USERNAME/living-project-book)
+Репозиторий: [living-project-book](https://github.com/Sergius-nsk/living-project-book)
 
 **ИИ-ферма для BSF**
 Автоматизированная мушиная ферма для чёрной львинки: переработка пищевых отходов в белковую биомассу и удобрение. Технология, оборудование, экономика проекта.
@@ -46,11 +46,3 @@ Python · HTML / CSS / JavaScript · Node.js · Claude Code · КОМПАС · A
 
 - Телефон: +7 996 545-76-81
 - Email: Sv195503@yandex.ru
-
----
-
-*Engineer and innovator working on environmental engineering, process automation
-and AI-assisted R&D for real-sector projects.*
-- 👯 I am seeking collaboration opportunities
-- in the development of innovative equipment for waste processing and recycling,
-- with a view to commercializing the resulting technologies and building a scalable business around them.
